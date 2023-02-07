@@ -1,0 +1,7 @@
+npm outdated - Use to discover dependencies that are out of date
+npm update  - Use to perform safe dependency upgrades
+npm install <packagename>@latest - Use to upgrade to the latest major version of a package
+
+Use  and  to upgrade all dependencies to their latest major versions
+npx npm-check-updates -u 
+npm install
