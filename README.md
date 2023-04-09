@@ -25,7 +25,9 @@ Other links on the footer of this portfolio website will go to my LinkedIn and i
 - AWS  
 - (CI/CD) Bitbucket &#8594; Docker &#8594; Jenkins &#8594; EC2
 
-<!-- ## Architecture
+## CICD 
+
+![alt text](https://raw.githubusercontent.com/ifperalta/PortfolioWebsite/master/src/components/common/images/architecture.png)
 
 ### Deployment
 
