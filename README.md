@@ -18,16 +18,17 @@ Other links on the footer of this portfolio website will go to my LinkedIn and i
 
 ## How to run --> 
 
-
 ## DevOps
 - Nginx
 - Linux Ubuntu
 - AWS  
-- (CI/CD) Bitbucket &#8594; Docker &#8594; Jenkins &#8594; EC2
+- Bitbucket 
+- Docker 
+- Jenkins
 
 ### Deployment 
 ![alt text](https://raw.githubusercontent.com/ifperalta/PortfolioWebsite/master/src/components/common/images/architecture.png)
 
-### Deployment
+<!--### Deployment
 
 ## How I configured all the DevOps tools to make it work -->
