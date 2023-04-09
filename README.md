@@ -23,8 +23,7 @@ Other links on the footer of this portfolio website will go to my LinkedIn Page 
 - Nginx
 - Linux Ubuntu
 - AWS EC2 
-- (CI) Bitbucket and Docker 
-- (CD) Jenkins
+- (CI/CD) Bitbucket/Docker/Jenkins
 
 <!-- ## Architecture
 
