@@ -12,7 +12,7 @@ This portfolio website was built using the React and Bootstrap UI. The website h
 
 - Contact page - allowing visitors to contact me through email. 
 
-Other links on the footer of this portfolio website will go to my LinkedIn Page and internal pages. Overall, the portfolio website is intended to showcase my work and skills, making it easier for potential clients or employers to evaluate my capabilities.
+Other links on the footer of this portfolio website will go to my LinkedIn and internal pages. Overall, the portfolio website is intended to showcase my work and skills, making it easier for potential clients or employers to evaluate my capabilities.
 
 <!-- ## You'll Need
 
