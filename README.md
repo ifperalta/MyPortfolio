@@ -22,8 +22,8 @@ Other links on the footer of this portfolio website will go to my LinkedIn Page 
 ## DevOps
 - Nginx
 - Linux Ubuntu
-- AWS EC2 
-- (CI/CD) (Git)Bitbucket &#8594; Docker &#8594; Jenkins &#8594; EC2
+- AWS  
+- (CI/CD) Bitbucket &#8594; Docker &#8594; Jenkins &#8594; EC2
 
 <!-- ## Architecture
 
