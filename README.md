@@ -27,7 +27,7 @@ Other links on the footer of this portfolio website will go to my LinkedIn and i
 - Jenkins
 
 ### Deployment 
-![alt text](https://raw.githubusercontent.com/ifperalta/PortfolioWebsite/master/src/components/common/images/architecture.png)
+![alt text](https://raw.githubusercontent.com/ifperalta/PortfolioWebsite/master/src/components/common/images/architecture.jpg)
 
 <!--### Deployment
 
