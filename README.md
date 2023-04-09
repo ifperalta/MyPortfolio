@@ -4,7 +4,7 @@ https://ianperalta.dev/
 
 ## Overview 
 
-This portfolio website was built using the React framework and Bootstrap UI. The website includes three pages: Home, Projects, and Contact page. 
+This portfolio website was built using the React and Bootstrap UI. The website includes three pages: Home, Projects, and Contact page. 
 
 - Home page - overviews my skills and experience. It may include a brief bio and some links to other pages and social media profiles.
 
