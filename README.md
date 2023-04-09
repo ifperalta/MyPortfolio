@@ -8,7 +8,7 @@ This portfolio website was built using the React and Bootstrap UI. The website h
 
 - Home page - overviews my skills and experience including a brief bio and some links to other pages and social media profile.
 
-- Projects page - showcases a sample full-stack project I've made, a project in Java, and a project on NodeJs/Express/React. Each project includes a short description, a demo link, and links to the source code.
+- Projects page - showcases a sample full-stack projects I've built. A project in Java/Bootstrap and a project in NodeJs/Express/React. Each project includes a short description, a demo link, and links to the source code.
 
 - Contact page - allowing visitors to contact me through email. 
 
