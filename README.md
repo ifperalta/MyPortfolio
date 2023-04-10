@@ -19,7 +19,7 @@ Other links on the footer of this portfolio website will go to my LinkedIn and i
 - Install by running "npm install"
 - Start the website by running "npm start"
 - Open a broswer and load the website in "localhost:4000"
-- 
+ 
 ### You will need
 - NodeJs
 
