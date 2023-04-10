@@ -14,9 +14,14 @@ This portfolio website was built using the React and Bootstrap UI. The website h
 
 Other links on the footer of this portfolio website will go to my LinkedIn and internal pages. Overall, the portfolio website is intended to showcase my work and skills, making it easier for potential clients or employers to evaluate my capabilities.
 
-<!-- ## You'll Need
-
-## How to run --> 
+## How to run 
+### Cloning the repository
+- Install by running "npm install"
+- Start the website by running "npm start"
+- Open a broswer and load the website in "localhost:4000"
+- 
+### You will need
+- NodeJs
 
 ## DevOps
 I have added DevOps in the background for this portfolio. These tools listed below facilitates deployment and code management. I've implemented a CI/CD pipeline for deployment running in an AWS EC2 instance.
