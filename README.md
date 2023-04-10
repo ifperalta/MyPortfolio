@@ -19,6 +19,9 @@ Other links on the footer of this portfolio website will go to my LinkedIn and i
 ## How to run --> 
 
 ## DevOps
+I have added DevOps to this portfolio. These tools are facilitating deployment and code code management. It has a CI/CD pipeline in place and running in a cloud environment.
+
+The tools that I use.
 - Nginx
 - Linux Ubuntu
 - AWS  
