@@ -17,14 +17,14 @@ Other links on the footer of this portfolio website will go to my LinkedIn and i
 ## How to run 
 - Cloning the repository
 
-  git clone {{link repository}}
-  Go to the directory 
-  Install by running - "npm install"
-  Start the website by running - "npm start" 
-  Open a broswer and load the website in "localhost:4000"
+  - git clone {{link repository}}
+  - Go to the directory 
+  - Install by running - "npm install"
+  - Start the website by running - "npm start" 
+  -Open a broswer and load the website in "localhost:4000"
  
-### You will need
-- NodeJs
+- You will need
+  - NodeJs
 
 ## DevOps
 I have added DevOps in the background for this portfolio. These tools listed below facilitates deployment and code management. I've implemented a CI/CD pipeline for deployment running in an AWS EC2 instance.
