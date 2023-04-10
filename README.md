@@ -25,7 +25,7 @@ Other links in the footer of this portfolio website will go to my LinkedIn and i
 ## DevOps
 The tools listed below facilitates the deployment and code management. I've implemented a CI/CD pipeline for deployment running in an AWS EC2 instance.
 
-The tools that I use are
+The tools I use
 - Nginx
 - Linux Ubuntu
 - AWS  
