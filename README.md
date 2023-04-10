@@ -40,6 +40,7 @@ The tools that I use.
 ### Deployment 
 ![alt text](https://raw.githubusercontent.com/ifperalta/PortfolioWebsite/master/src/components/common/images/architecture.jpg)
 
-<!--### Deployment
-
-## How I configured all the DevOps tools to make it work -->
+## Next To Implement
+- Unit testing
+- Documentatation page
+- Blog page
