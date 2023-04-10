@@ -16,9 +16,12 @@ Other links on the footer of this portfolio website will go to my LinkedIn and i
 
 ## How to run 
 ### Cloning the repository
-- Install by running "npm install"
-- Start the website by running "npm start"
-- Open a broswer and load the website in "localhost:4000"
+
+  git clone {{link repository}}
+  Go to the directory 
+  Install by running - "npm install"
+  Start the website by running - "npm start" 
+  Open a broswer and load the website in "localhost:4000"
  
 ### You will need
 - NodeJs
