@@ -15,7 +15,7 @@ This portfolio website was built using the React and Bootstrap UI. The website h
 Other links on the footer of this portfolio website will go to my LinkedIn and internal pages. Overall, the portfolio website is intended to showcase my work and skills, making it easier for potential clients or employers to evaluate my capabilities.
 
 ## How to run 
-### Cloning the repository
+- Cloning the repository
 
   git clone {{link repository}}
   Go to the directory 
