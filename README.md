@@ -33,7 +33,7 @@ The tools that I use are
 - Docker 
 - Jenkins
 
-### Deployment 
+### Deployment flow and pipeline
 ![alt text](https://raw.githubusercontent.com/ifperalta/PortfolioWebsite/master/src/components/common/images/architecture.jpg)
 
 ## Next to implement
