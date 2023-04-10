@@ -1,6 +1,6 @@
 
 ## Portfolio Website
-- URL https://ianperalta.dev/
+- https://ianperalta.dev/
 
 ## Overview 
 
