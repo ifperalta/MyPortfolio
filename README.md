@@ -23,7 +23,7 @@ Other links in the footer of this portfolio website will go to my LinkedIn and i
   -Open a broswer and load the website in "localhost:4000"
  
 ## DevOps
-I have added DevOps in the background. The tools listed below facilitates the deployment and code management. I've implemented a CI/CD pipeline for deployment running in an AWS EC2 instance.
+The tools listed below facilitates the deployment and code management. I've implemented a CI/CD pipeline for deployment running in an AWS EC2 instance.
 
 The tools that I use.
 - Nginx
