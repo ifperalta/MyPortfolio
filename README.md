@@ -40,7 +40,7 @@ The tools that I use.
 ### Deployment 
 ![alt text](https://raw.githubusercontent.com/ifperalta/PortfolioWebsite/master/src/components/common/images/architecture.jpg)
 
-## Next To Implement
+## Next to implement
 - Unit testing
-- Documentatation page
-- Blog page
+- Blog 
+- Documentation page
