@@ -27,7 +27,7 @@ Other links on the footer of this portfolio website will go to my LinkedIn and i
   - NodeJs
 
 ## DevOps
-I have added DevOps in the background for this portfolio. The tools listed below facilitates deployment and code management. I've implemented a CI/CD pipeline for deployment running in an AWS EC2 instance.
+I have added DevOps in the background. The tools listed below facilitates deployment and code management. I've implemented a CI/CD pipeline for deployment running in an AWS EC2 instance.
 
 The tools that I use.
 - Nginx
