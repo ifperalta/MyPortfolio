@@ -4,7 +4,7 @@
 
 ## Overview 
 
-This portfolio website was built using the React and Bootstrap UI. The website has three pages: Home, Projects, and Contact. 
+My portfolio website was built using the React and Bootstrap UI. The website has three pages: Home, Projects, and Contact. 
 
 - Home page - overviews my skills and experience including a brief bio and some links to other pages and social media profile.
 
